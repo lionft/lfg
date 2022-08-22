@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x39223e2596bf8e1de3894f66947cacc614c24a2f",
+
+  "SCAN_LINK": "https://etherscan.io/address/0x39223e2596bf8e1de3894f66947cacc614c24a2f#writeContract",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Suki",
+  "SYMBOL": "suki",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025 ,
+  "GAS_LIMIT": 100000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/suki",
+  "SHOW_BACKGROUND": true
+}
